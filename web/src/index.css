@@ -1,0 +1,19 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Qahiri&family=Titillium+Web:wght@300;400;600&display=swap');
+
+.body {
+	margin: 50px 0;
+}
+
+.box {
+	margin: 0 25px;
+}
+
+.display-number {
+	font-family: 'Qahiri', sans-serif;
+	color: aqua;
+	font-size: 45px;
+	letter-spacing: 3px;
+	text-shadow: 1px 1px 2px blue;
+}
+
