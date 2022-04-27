@@ -18,7 +18,7 @@ function App() {
         Bitcoin visualizer
       </header>
       <div className='body'>
-        <div className='w-25 mx-auto'>
+        <div className='w-25 mx-auto mb-5'>
           <ValueDisplay currency='BTC' value={1} />
         </div>
         <div className='d-flex justify-content-center'>
